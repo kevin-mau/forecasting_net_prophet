@@ -38,8 +38,8 @@ by 8.55% the month that MercadoLibre released its financial results in May 2020.
 
 We are also able to plot the search trends by day of the week, as well as create a heatmap to further 
 investigate the hour of the day.
-
-
+![search_trends_by_day](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_by_day.png?raw=true)
+![search_trends_heatmap](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_heatmap.png?raw=true)
 
 
 
