@@ -9,9 +9,8 @@ revenue for the finance group.
 ---
 ## Technologies and Usage:
 
-Using Google Colab would be ideal to run Facebook Prophet.  You can 'Upload' the Jupyter
-notebook after landing on https://colab.research.google.com
-
+Instead of running Facebook Prophet on your local machine, using Google Colab would be ideal to
+run Facebook Prophet.  You can 'Upload' the Jupyter notebook after landing on https://colab.research.google.com
 
 Install and import the required libraries and dependencies in Google Colab:
 ```python
@@ -30,4 +29,8 @@ Install and import the required libraries and dependencies in Google Colab:
   %matplotlib inline  
 ```
 
-cont.
+In the first part of the study, we will analyze search trends and specifically any unusual search trends
+patterns in the month of May 2020.  After reading in the csv data: "google_hourly_search_trends.csv", we can
+isolate the month of May 2020, and create a plot to visualize the search trends that month.
+
+
