@@ -54,7 +54,7 @@ We will now utilize Prophet to create some forecasting for our data.
 ![forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/forecast.png?raw=true)
 Also by using Prophet, we will be able to forecast total sales for the next quarter.  We will use the historical daily sales
 recorded in the CSV file: "mercado_daily_revenue.csv" to use for the forecasting model.
-![forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/forecast.png?raw=true)
+![sales_forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/sales_forecast.png?raw=true)
 
 
 
