@@ -37,11 +37,13 @@ With the median monthly traffic at our fingertips, we can calculate that the sea
 by 8.55% the month that MercadoLibre released its financial results in May 2020.
 
 We are also able to plot the search trends by day of the week, as well as create a heatmap to further 
-investigate the hour of the day.
+investigate the google search trends by hour of the day.
 ![search_trends_by_day](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_by_day.png?raw=true)
 ![search_trends_heatmap](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_heatmap.png?raw=true)
 
-
+In the next part of our study, we will analyze the stock price of MercadoLibre, and see whether there is
+correlations between search traffic and stock prices.
+We will read in the data from "mercado_stock_price.csv", and analyze the historical prices and create visualizaions.
 
 
 
@@ -51,7 +53,7 @@ investigate the hour of the day.
 ## Data:
 
 The google_hourly_search_trends.csv file is a CSV file that is historical daily data of google searches of
-MercadoLibre.  The 
+MercadoLibre.  The mercado_stock_price.csv is a historical record of the stock prices of MercadoLibre.
 
 ---
 
