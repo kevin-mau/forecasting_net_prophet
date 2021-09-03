@@ -32,5 +32,5 @@ Install and import the required libraries and dependencies in Google Colab:
 In the first part of the study, we will analyze search trends and specifically any unusual search trends
 patterns in the month of May 2020.  After reading in the csv data: "google_hourly_search_trends.csv", we can
 isolate the month of May 2020, and create a plot to visualize the search trends that month.
-
+![search_trends_may_2020](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_may_2020.png?raw=true)
 
