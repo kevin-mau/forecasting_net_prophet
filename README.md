@@ -29,8 +29,38 @@ Install and import the required libraries and dependencies in Google Colab:
   %matplotlib inline  
 ```
 
-In the first part of the study, we will analyze search trends and specifically any unusual search trends
+In the first part of the study, we will analyze search trends, specifically any unusual search trends
 patterns in the month of May 2020.  After reading in the csv data: "google_hourly_search_trends.csv", we can
 isolate the month of May 2020, and create a plot to visualize the search trends that month.
 ![search_trends_may_2020](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_may_2020.png?raw=true)
+With the median monthly traffic at our fingertips, we can calculate that the search traffic increased
+by 8.55% the month that MercadoLibre released its financial results in May 2020.
 
+We are also able to plot the search trends by day of the week, as well as create a heatmap to further 
+investigate the hour of the day.
+
+
+
+
+
+
+
+
+
+
+## Data:
+
+The google_hourly_search_trends.csv file is a CSV file that is historical daily data of google searches of
+MercadoLibre.  The 
+
+---
+
+## Contributors
+
+kevin-mau
+
+---
+
+## License
+
+MIT
