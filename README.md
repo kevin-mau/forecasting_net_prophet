@@ -51,6 +51,9 @@ analyze the historical prices and create visualizations.
 ![correlation_table](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/correlation_table.png?raw=true)
 
 We will now utilize Prophet to create some forecasting for our data.
+![forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/forecast.png?raw=true)
+
+
 
 
 
