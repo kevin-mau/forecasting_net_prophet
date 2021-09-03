@@ -52,6 +52,7 @@ analyze the historical prices and create visualizations.
 
 We will now utilize Prophet to create some forecasting for our data.
 ![forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/forecast.png?raw=true)
+
 Also by using Prophet, we will be able to forecast total sales for the next quarter.  We will use the historical daily sales
 recorded in the CSV file: "mercado_daily_revenue.csv" to use for the forecasting model.
 ![sales_forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/sales_forecast.png?raw=true)
@@ -63,7 +64,7 @@ recorded in the CSV file: "mercado_daily_revenue.csv" to use for the forecasting
 ## Data:
 
 The google_hourly_search_trends.csv file is a CSV file that is historical daily data of google searches of
-MercadoLibre.  The mercado_stock_price.csv is a historical record of the stock prices of MercadoLibre.  Finally
+MercadoLibre.  The mercado_stock_price.csv is a historical record of the stock prices of MercadoLibre.  Finally,
 the mercado_daily_revenue.csv is data of daily historical sales which we can use to forecast future revenue.
 
 ---
