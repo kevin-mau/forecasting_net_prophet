@@ -42,9 +42,9 @@ investigate the google search trends by hour of the day.
 ![search_trends_heatmap](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/search_trends_heatmap.png?raw=true)
 
 In the next part of our study, we will analyze the stock price of MercadoLibre, and see whether there is
-correlations between search traffic and stock prices.
-We will read in the data from "mercado_stock_price.csv", and analyze the historical prices and create visualizaions.
-
+correlations between search traffic and stock prices.  We will read in the data from "mercado_stock_price.csv", and
+analyze the historical prices and create visualizations.
+![close_price_plot](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_price_plot.png?raw=true)
 
 
 
