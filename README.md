@@ -47,7 +47,11 @@ analyze the historical prices and create visualizations.
 ![close_price_plot](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_price_plot.png?raw=true)
 ![close_vs_search](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_vs_search.png?raw=true)
 ![close_vs_search2](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_vs_search2.png?raw=true)
-![stock_volatility](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_vs_search2.png?raw=true)
+![stock_volatility](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/stock_volatility.png?raw=true)
+![correlation_table](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/correlation_table.png?raw=true)
+
+We will now utilize Prophet to create some forecasting for our data.
+
 
 
 ## Data:
