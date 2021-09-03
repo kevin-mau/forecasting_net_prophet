@@ -45,8 +45,8 @@ In the next part of our study, we will analyze the stock price of MercadoLibre, 
 correlations between search traffic and stock prices.  We will read in the data from "mercado_stock_price.csv", and
 analyze the historical prices and create visualizations.
 ![close_price_plot](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_price_plot.png?raw=true)
-
-
+![close_vs_search](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_vs_search.png?raw=true)
+![close_vs_search2](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/close_vs_search2.png?raw=true)
 
 
 
