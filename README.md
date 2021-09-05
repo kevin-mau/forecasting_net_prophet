@@ -64,7 +64,7 @@ Also the sales forecast plot components are displayed here:
 
 Having the forecasted numbers, we can add up the daily predicted sales for the future quarter and present to the finance
 group the following predictions:
-![sales_best_case](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/sales_plot_components.png?raw=true)
+![sales_best_case](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/sales_best_case.png?raw=true)
 
 ## Data:
 
