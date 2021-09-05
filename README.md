@@ -69,8 +69,11 @@ group the following predictions:
 ## Data:
 
 The google_hourly_search_trends.csv file is a CSV file that is historical daily data of google searches of
-MercadoLibre.  The mercado_stock_price.csv is a historical record of the stock prices of MercadoLibre.  Finally,
-the mercado_daily_revenue.csv is data of daily historical sales which we can use to forecast future revenue.
+MercadoLibre.  
+
+The mercado_stock_price.csv is a historical record of the stock prices of MercadoLibre.  
+
+Finally, the mercado_daily_revenue.csv is data of daily historical sales which we can use to forecast future revenue.
 
 ---
 
