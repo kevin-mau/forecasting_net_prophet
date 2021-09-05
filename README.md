@@ -50,11 +50,14 @@ analyze the historical prices and create visualizations.
 ![stock_volatility](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/stock_volatility.png?raw=true)
 ![correlation_table](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/correlation_table.png?raw=true)
 
-We will now utilize Prophet to create some forecasting for our data.
+We will now utilize the forecasting data to create some visualization plots of the data components.
 ![forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/forecast.png?raw=true)
 
 Also by using Prophet, we will be able to forecast total sales for the next quarter.  We will use the historical daily sales
-recorded in the CSV file: "mercado_daily_revenue.csv" to use for the forecasting model.  
+recorded in the CSV file: "mercado_daily_revenue.csv" to use for the forecasting model.  This shows the daily revenue
+up to the end of our data, dated 5/14/2020:
+![daily_sales](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/daily_sales.png?raw=true)
+
 After running Prophet to forecast into the future for 90 days - forecasting the upcoming next quarter - we can see this plot
 of future sales:
 ![sales_forecast](https://github.com/kevin-mau/forecasting_net_prophet/blob/main/Resources/sales_forecast.png?raw=true)
